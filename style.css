@@ -1,0 +1,20 @@
+body { background-color: white; color: black; font-family: platino, serif; padding: 0; margin: 0; text-align: center;}
+
+img { width: 70%; border-radius: 10px; margin-bottom: 20px;}
+
+h1 { font-size: 2.5em; padding: 15px; color: #002d1f;}
+
+p { font-size: 1.5em; text-align: canter; margin: 20px 75px;}
+
+iframe { padding: 25px 0px 25px 75px }
+
+a:link { color: gray; background-color: transparent; text-decoration: none;}
+
+a:visited { color: gray; background-color: transparent; text-decoration: none;}
+
+a:hover { color: gray; background-color: transparent; text-decoration: underline;}
+
+a:active { color: gray; background-color: transparent; text-decoration: underline;}
+
+footer { background: #0b3d2e; color: white; font-size: 1.7em; text-align:center; padding: 20px; margin-top: 40px;}
+
